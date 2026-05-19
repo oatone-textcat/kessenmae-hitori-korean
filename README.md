@@ -70,6 +70,15 @@
 - 111 Input Form
   - 원본 링크: https://plugin.fungamemake.com/archives/2601
 
+### 서체(폰트) 사용 안내
+
+본 프로젝트는 가독성 향상을 위해 학교안심 알림장 서체를 일부 이미지에 사용하고 있습니다.
+
+서체의 저작권은 원 권리자에게 있으며 본 프로젝트는 서체의 소유권을 주장하지 않습니다.
+서체의 사용 조건은 원 권리자가 제공하는 이용 약관 및 라이선스를 따릅니다.
+
+[Copyright © Korea Education and Research Information Service (KERIS).](https://copyright.keris.or.kr/wft/fntDwnldView?fntGrpId=GFT202408200000000000007)
+
 ## 라이선스
 
 본 저장소에서 프로젝트 참여자가 직접 작성하거나 수정한 번역문,
