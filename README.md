@@ -1,6 +1,7 @@
 # 결전 전의 히토리(決戦前のヒトリ) 비공식 한글 번역 패치
 
 원작 링크: https://www.freem.ne.jp/win/game/29106
+
 원작 제작자: 파르소닉 (パルソニック) [홈페이지](https://palincos.main.jp/)
 
 ## 프로젝트 구성
