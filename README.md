@@ -19,8 +19,12 @@
 1. GitHub 페이지 상단의 **[Releases](../../releases)** 탭으로 이동합니다.
 2. 최신 릴리즈에서 `Hitori-KRPatch.zip` 파일을 다운로드합니다.
 3. 압축을 해제한 뒤, 압축 파일 내부의 www 폴더를 게임 실행 파일(Game.exe)이 있는 폴더에 붙여넣습니다.<br>
+※ 압축을 해제할 때, 코드페이지를 다음과 같이 일본어로 맞추셔야 합니다. 압축파일 안의 폴더명이 일본어로 표기되면 정상입니다. <br>
+<img width="803" height="607" alt="image" src="https://github.com/user-attachments/assets/56fca41c-def7-412f-aad4-2f8e30c11a44" />
+<img width="803" height="607" alt="image" src="https://github.com/user-attachments/assets/01637025-2d90-42c2-9be9-d36eff140c77" />
+<img width="803" height="607" alt="image" src="https://github.com/user-attachments/assets/6706dc82-4067-4ecc-9c3b-5775607739ed" /> <br>
 ※ 같은 이름의 파일을 덮어씌울지 물어보는 창이 나와야 정상이며, '대상 폴더의 파일 덮어쓰기'를 선택하면 됩니다. <br>
-4. 게임 시작 후 텍스트가 한글로 출력되면 정상적으로 적용된 것입니다. <br>
+5. 게임 시작 후 텍스트가 한글로 출력되면 정상적으로 적용된 것입니다. <br>
 
 ## 주의사항
 
